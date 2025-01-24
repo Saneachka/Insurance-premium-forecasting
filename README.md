@@ -33,6 +33,10 @@ Average Absolute Percentage error (MAPE);
 RMS error (RMSE);
 R2.
 
+### Input data
+
+test.csv - https://www.kaggle.com/code/yao713/playground-series-s4e12/input?select=test.csv
+train.csv - https://www.kaggle.com/code/yao713/playground-series-s4e12/input?select=train.csv
 ### Output data 
 
 The Insurance Dataset.csv file
